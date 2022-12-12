@@ -33,3 +33,5 @@ const PortfolioContainer = () => {
         </div>
     );
 };
+
+export default PortfolioContainer;
