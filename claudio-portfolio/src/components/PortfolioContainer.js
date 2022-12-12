@@ -13,15 +13,14 @@ const PortfolioContainer = () => {
         if(currentPage === 'About') {
             return <About/>;
         }
-        else if(currentPage === 'Portfolio') {
+        if(currentPage === 'Portfolio') {
             return <Portfolio/>;
         }
-        else if(currentPage === 'Contact') {
+        if(currentPage === 'Contact') {
             return <Contact/>;
         }
-        else {
-            return <Resume/>;
-        }
+        return <Resume/>;
+        
     };
 
     const handlePageChange = (page) => setCurrentPage(page);

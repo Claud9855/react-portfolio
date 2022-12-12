@@ -1,4 +1,4 @@
 header {
-    background: rgb(63,94,251);
-    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(135,85,196,1) 61%, rgba(252,70,107,1) 100%); 
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(1,2,14,1) 54%, rgba(0,153,187,1) 96%, rgba(0,168,204,1) 100%, rgba(0,212,255,1) 100%); 
 }
