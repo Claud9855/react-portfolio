@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.25e52a88.css",
+    "main.js": "/react-portfolio/static/js/main.fd6517a5.js",
+    "static/js/787.cc948acb.chunk.js": "/react-portfolio/static/js/787.cc948acb.chunk.js",
+    "static/media/BluFlix.png": "/react-portfolio/static/media/BluFlix.61dadcf1645fab119ad8.png",
+    "static/media/WeatherApp.png": "/react-portfolio/static/media/WeatherApp.01c6bffcd5bc289750c1.png",
+    "static/media/Work-Day-Scheduler.png": "/react-portfolio/static/media/Work-Day-Scheduler.3b843f8d3e31aecdf0d6.png",
+    "static/media/JavaScript-Coding-Quiz.png": "/react-portfolio/static/media/JavaScript-Coding-Quiz.f12f21bf3b5ea6841d96.png",
+    "static/media/Claudio-Pagan.pdf": "/react-portfolio/static/media/Claudio-Pagan.99ccc62704f0b1bc9518.pdf",
+    "static/media/CV-pic.jpeg": "/react-portfolio/static/media/CV-pic.2fbed29442e54beeeb93.jpeg",
+    "static/media/Password-Generator.png": "/react-portfolio/static/media/Password-Generator.9667adc35cd019172915.png",
+    "static/media/NoteTaker.png": "/react-portfolio/static/media/NoteTaker.5b7dd57b9d63e538e9ee.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.25e52a88.css.map": "/react-portfolio/static/css/main.25e52a88.css.map",
+    "main.fd6517a5.js.map": "/react-portfolio/static/js/main.fd6517a5.js.map",
+    "787.cc948acb.chunk.js.map": "/react-portfolio/static/js/787.cc948acb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25e52a88.css",
+    "static/js/main.fd6517a5.js"
+  ]
+}
