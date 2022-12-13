@@ -6,7 +6,7 @@ const About = () => {
         <div className="m-5 d-flex row">
             <h1 className="display-4">About Me</h1>
             <figure className="m-5">
-                <img src={me} width="100%" style={{borderRadius: '50%'}}/>
+                <img src={me} width="100%" style={{borderRadius: '50%'}} alt="Claudio"/>
             </figure>
             <p style={{fontSize: "1.5rem"}}>
                 I am a self-taught programmer with some college education in computer science and a certificate
