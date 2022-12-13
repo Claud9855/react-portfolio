@@ -1,11 +1,12 @@
 import React from "react";
+const ResumePDF = require("../images/Claudio-Pagan.pdf");
 
 const Resume = () => {
     return (
-        <div>
+        <div className="m-5">
             <h1>Resume</h1>
             
-            <p>Download my <a href="#">resume</a></p>
+            <p>Download my <a href={ResumePDF} download>resume</a></p>
 
             <h1>Front-end Proficiencies</h1>
             <ul>
